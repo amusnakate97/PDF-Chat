@@ -2,13 +2,13 @@
 
 ## Python Libraries required
 
-streamlit\n
-google-generativeai\n
-python-dotenv\n
-langchain\n
-PyPDF2\n
-chromadb\n
-faiss-cpu\n
+streamlit<br />
+google-generativeai<br />
+python-dotenv<br />
+langchain<br />
+PyPDF2<br />
+chromadb<br />
+faiss-cpu<br />
 
 ## How to run
  streamlit run app.py
