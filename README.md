@@ -14,3 +14,5 @@ faiss-cpu<br />
  streamlit run app.py
 
  
+![Screenshot (40)](https://github.com/amusnakate97/PDF-Chat/assets/36560417/d813f3dd-1261-486a-ba8b-ea605d44414a)
+
